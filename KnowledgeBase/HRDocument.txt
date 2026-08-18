@@ -1,0 +1,454 @@
+﻿
+The Company reserves the right to unilaterally revise, suspend, revoke, terminate or change any of its policies,
+in whole or in part, whether described within this handbook or elsewhere, in its sole discretion. If any
+discrepancy between this handbook and current Company policy arises, conform to existing Company policies.
+Every effort will be made to keep you informed of the Company’s policies; however, we cannot guarantee that
+notice of revisions will be provided. Feel free to ask questions about any of the information within this
+handbook.
+Disciplinary Policy
+Purpose:
+This procedure talks about necessary measures when there is a violation within, outside or related to the
+Organization. Violation that impacts or has a potential impact on security, information, confidentiality, ethics or
+any such breach as mentioned and covered in this document and in the code of conduct policy document.
+Scope :
+Covers everyone who is associated with Coditas in any capacity.
+Procedure:
+Task Details / Actions to be carried out Task Owner
+Coditas has defined and established a formal disciplinary process for
+employees who commit a breach, as covered in the code of conduct
+and disciplinary policy documents..
+HR Department
+Breach could be any such act committed that compromises and not
+just limited to, confidentiality, ethics, integrity, availability of
+information within Coditas’ ISMS, code of conduct and disciplinary
+Scope.
+End user / Employee
+In case of an employee committing the first breach, the same is
+recorded and the concerned employee is given awareness or a
+warning about the breach and its consequences. Repetitive offenses
+will lead to and result in further disciplinary action.
+HR Department
+Disciplinary actions -
+Sr.
+No.
+Severity
+Category
+Possible Punitive Action Examples of Violations
+1. HIGH Suspension of Service /
+Termination of Employment /
+Cancellation of Contract /
+Severe Reprimand /
+Performance diary entry to be
+done by manager and
+performance pay cut for not
+less than 3
+months/Demotion/Lowering
+salary
+1. Anti-bribery and Anti-Corruption
+2.Accepting Gifts and Entertainment from any
+third party
+3.Competition and Antitrust
+4.Activities that taint and sabotage the
+Organization’s brand and reputation
+5.Spreading any hate content through any
+medium
+6.Under influence of Intoxication or drugs
+7.Embezzlement
+8.Harassment of any nature
+Internal Circulation - 21
+9.POSH instances
+10.Organization Information and data security
+breach or any sort of violation
+11.Disclosure of Confidential and Proprietary
+Information
+12.Coditas IPR violation or theft
+13.Discrimination on grounds of race, colour,
+gender, creed, religion, ethnic origin, age,
+disability etc
+14.Indulging in any sort of pornography
+2. MEDIUM Counseling / Severe Reprimand
+/Suspension of
+Service/performance Diary
+entry to be done by manager
+and performance pay cut for
+not less than 1 month and
+written and verbal
+warning/Demotion/Lowering
+salary
+1.Use of Pirated / unauthorized/ unapproved
+software
+2.Non Adherence to Clear Desk and Clear
+Screen Policy
+3.Accuracy of Business Records
+4.Usage of Org resources for personal
+consumption
+5.Insubordination or disobedience
+6.Uninformed absenteeism (repetitive)
+6a. Proceeding on leave without manager
+approval and application
+6b. Inconsistency/incompletion of mandatory
+work
+6c. Irregularity with attendance
+6d. Habitual delayer, defaulters, later comers to
+office
+7. Falsification of attendance, leave
+management and record keeping
+8.Theft, fraud or removal of Organization
+property
+9.False claims/declarations/expense
+settlements
+10.Violation of Health and Safety rules
+11.Smoking at workplace
+12.Inappropriate usage of social media
+involving the Organization
+3. LOW Reprimand / Counseling and
+written and verbal warning
+1.Sharing Project Confidential Information with
+improper/inadequate access to unauthorized
+people within Coditas
+2. Unauthorized relocation of Information Asset
+inside the premises.
+3. Having MP3, Videos, Movies on Desktop
+4.Uninformed absenteeism
+Output:
+● Verbal warning (Minutes of Meetings as an evidence)
+● Warning letter
+● Entry in the performance diary
+● Termination
+Depending on the severity of the incidence, the activity severity could escalate to the next higher level.
+Internal Circulation - 22
+Note
+For doubts and questions in terms of executing this procedure, HR Department shall be referred
+POSH POLICY
+Policy Statement
+Coditas Solutions LLP values and recognizes the right of every single associate to perform their duties without
+being subjected to any form of sexual harassment against women at workplace. Discrimination and harassment
+of any form will not be tolerated at any level. The Company has adopted Zero tolerance towards any form of
+sexual harassment and is committed to take necessary preventive steps to ensure that the associates are not
+subjected to it. The Company is committed to protect the dignity of their associates, to promote a fair, safe and
+healthy work environment based on mutual trust and respect, conducive to the professional growth of its
+associates. CODITAS SOLUTIONS LLP does not encourage gender-based discrimination and therefore promotes
+gender equality.
+A breach of this policy will result in disciplinary action, up to and including termination of employment without
+serving notice period . The Company strongly encourages any associate who feels that they have been sexually
+harassed to take immediate action and report the same to POSH ICC. Any incidents of sexual harassment will be
+treated seriously and promptly with sensitivity. Such reports will be treated as completely confidential up to the
+point where a formal or informal complaint is lodged against a particular person, at which point that person
+must be notified under the rules of natural justice. This policy is made under the overall ambit of the Coditas
+Solutions LLP Code of Conduct and based on the provisions of the Sexual Harassment of women at workplace
+(Prevention, Prohibition and Redressal) Act 2013 (hereafter shall be referred as the Act) &amp; the amendment
+bill 2024 is also incorporated.
+The purpose of this policy document is to define workplace sexual harassment against women, prohibit it in all
+forms, formulate the ICC, carry out appropriate disciplinary measures in the case of violations through ICC, and
+provide procedures for lodging complaints about conduct that violates this policy and investigating sexual
+harassment claims. The Company also strives to provide a safe working environment to all those who visit any
+of their work locations in any capacity, such as vendors, customers, etc. To ensure that this is upheld in both
+letter and spirit, responsibility lies with every Manager, Supervisor and employee/visitor to ensure that sexual
+harassment does not occur. Anyone who fails to take appropriate corrective action when aware of harassment
+of a person will be subject to disciplinary action by the ICC.
+Scope
+This policy applies to all associates and also to those who are not associates of the Company, such as
+customers, visitors, vendors, suppliers, contract workers, probationer, trainees, retainer, interns, consultant
+who could be subjected to sexual harassment at the premises termed as ‘workplace’ of the company. The
+company will not tolerate sexual harassment against women, if engaged in by clients or by suppliers or any
+other business associates.
+“Associate” would refer to anyone employed at CODITAS SOLUTIONS LLP for any work on regular, temporary, ad
+hoc or daily wage basis, either directly or through an agent, including a contractor, with or, without the
+knowledge of the principal employer, whether for remuneration or not, or working on a voluntary basis or
+otherwise, whether the terms of employment are express or implied and includes a co-worker, a contract
+worker, probationer, trainee, apprentice, retainer, consultant or called by any other such name.
+“Workplace” refers to India offices of CODITAS SOLUTIONS LLP and/or any place visited by the associate arising
+out of or during employment, including transportation provided by the employer for the purpose of commuting
+to and from the place of employment.
+Internal Circulation - 23
+“Extended Workplace” includes -
+1. Business locations of the Company (i.e. all offices or other premises where the Company’s business is
+conducted)
+2. Any external location visited by associates due to or during the course of their employment with the
+Company such as business locations of other companies, guest houses, etc. (i.e. whether sexual harassment has
+taken place within or outside the Company premises).
+3. Any social, business networking place or other functions where the conduct or comments may have an
+adverse impact on the workplace or workplace relations (i.e. whether the incident has occurred during or
+beyond office hours).
+4. Any mode of transport provided by the Company (or a representative of the Company) for undertaking a
+journey to and from the aforementioned locations.
+5. Any associate working as per the Work from Home concept whether the location is their own home, club,
+hotel, or any such place of work.
+“Complainant/ Aggrieved Person” means in relation to a workplace, an associate of any age, whether
+employed or not, who alleges to have been subjected to any act of sexual harassment at the workplace by
+another person.
+The definition of Complainant/Aggrieved person for the purpose of this policy extends to all associates or
+non-associates irrespective of status of employment.
+Sexual Harassment Definition
+“Sexual harassment” would include harassment in sexual connotation caused to a woman or by opposite
+gender or by same gender.
+Any unwelcome sexually determined behavior, such as:
+a. Physical contact and advances (such as touching, stalking, eve teasing, sounds which have explicit and /or
+implicit sexual connotation/overtones, molestation, touching one’s own body in front of the other employee,
+entering the private space of the other person); or
+b. A demand or request for sexual favors (whether verbal, textual, graphic, electronic or by any other action)
+whether or not in return for a term or condition of instruction, employment, participation or evaluation of a
+person’s engagement in any company activity or
+c. Making sexually colored remarks (including but not limited to vulgar/ indecent jokes, letters, phone calls,
+text messages, e-mails, gestures, taunts, eve-teasing etc.); or
+d. Displaying /sending pornographic content; or
+e. Any act or conduct by a person in authority and belonging to one sex which denies or would deny equal
+opportunity in pursuit of career development or otherwise making the environment intimidating to a person
+belonging to the other / same sex; or
+f. Any other unwelcome physical, verbal or non-verbal conduct of sexual nature; or
+g. Harassment can occur in person, over the phone (including voice mail), over the internet, e-mail, social media
+or video call or any other form of communication; or
+Internal Circulation - 24
+h. Creating a hostile environment in lieu of any sexual advances/ sexual favors.
+This includes verbal, non-verbal or physical conduct such as obnoxious comments or utterances, remarks or
+jokes, letters, phone calls, gestures, sounds of a nature with sexual overtures.
+Awareness about the policy
+CODITAS SOLUTIONS LLP would take all requisite steps to ensure effective dissemination of this policy through
+workshops, meetings of ICC members, change the POSH policy once a year, awareness programs, complaint
+boxes, enrol on SHE-BOX Portal with awareness training to the employees and printed communications in
+accordance with the Act.
+Internal Complaints Committee (ICC)
+In order to objectively redress the sexual harassment complaints, CODITAS SOLUTIONS LLP has formed an
+Internal Complaints Committee. The names of the CODITAS SOLUTIONS LLP ICC members have been listed
+under Annexure A and displayed at various conspicuous places in the office.
+Guidelines followed while constituting ICC at CODITAS SOLUTIONS LLP
+● The Company’s ICC will comprise of minimum 4 members.
+● Coditas Solutions LLP woman officer of adequately high position will be appointed as the Presiding Officer
+of ICC. In case there is no appointing of a suitable woman officer in a location, then the Presiding Officer
+can be nominated from any of CODITAS SOLUTIONS LLP location operating in India.
+● CODITAS SOLUTIONS LLP shall appoint more than 50% members in the ICC who are women.
+● CODITAS SOLUTIONS LLP will ensure that at least two members of ICC are women associates.
+● CODITAS SOLUTIONS LLP shall appoint/co-opt for an external member from an NGO or associations who
+is committed to the cause of women or a person familiar with the issues relating to sexual harassment to
+help redressal of issues.
+● Changes in the constitution of the ICC, whenever necessary, shall be made as expeditiously as possible
+and in any case within 15 days of the date of vacancy.
+● The POSH Act 2013 has vested the same powers with ICC as are vested in a civil court while inquiring into
+a complaint.
+● The tenure of CODITAS SOLUTIONS LLP ICC members is of 3 years’ term from the date of nomination.
+● ICC members may be removed before the three-year time period in case they contravene any provisions
+of the policy or abuses his/her position as a member of the committee or if the said member is either the
+complainant or respondent of a POSH case.
+● ICC member will be immediately replaced by other member if the existing member is leaving the
+organization/ or the services are terminated, by a resignation letter by the existing member &amp; signed
+by other members or calling upon a meeting for the same.
+● ICC will immediately terminate the ICC member in case if he/she is a complainant or a respondent of a
+POSH complaint.
+Redressal of Complaints
+Complaint Mechanism
+● Complainant will give a written complaint only to the ICC at the complaint box or email ICC@coditas.com
+maximum within 1 year/ at the earliest of the last incident sexual harassment incident happened with the
+complainant.
+● The reasons for the delay if any must be recorded in writing.
+● No any anonymous complaints will be accepted by ICC
+● The complainant is required to send a written complaint with scanned copies or submit sufficient copies
+Internal Circulation - 25
+of detailed complaint (recommended six copies) along with supporting documents/ date, evidences and
+names & amp; addresses of the respondent and/or witnesses.
+● CODITAS SOLUTIONS LLP encourages and supports its associates to file written complaint against acts of
+sexual harassment faced by them and will render all reasonable assistance to the complainant to make
+the complaint in writing.
+● In case the complainant is unable to make a complaint on account of his/her physical incapacity, the
+complaint may be filed by his/her relative, friend, co-worker or by any person who has knowledge of the
+incident, with his/her written consent.
+● In case the complainant is unable to make a complaint on account of his/her mental incapacity, the
+complaint may be filed by his/her relative, friend, a special educator, a qualified psychiatrist or
+psychologist, the guardian or authority under whose care he/she is receiving treatment or care or by any
+person who has knowledge of the incident jointly with any person mentioned herewith.
+● In case the complainant dies before his/her consent is obtained, the complaint may be filed by any
+person who has knowledge of the incident with the written consent of his/her legal heir.
+● In the event the complainant is unable to file a complaint for any other reason, a complaint may be filed
+by any person who has knowledge of the incident, with the written consent of the complainant person.
+● The complainant may also reach out to his/her reporting manager, HR manager or any other associate
+through an email or a written complaint to the ICC. Upon being intimated, it is the duty of the reporting
+manager or the presiding officer, Manager or any other associate to provide reasonable assistance to the
+complainant to write the complaint and bring it to the attention of the ICC or send via email to the ICC,
+providing all the necessary details of the Complaint. The complainant must be copied on all such emails.
+● The written complaint is prescribed to have following information:
+a. Complainant person’s name, designation, contact numbers/ details and date of occurrence of
+incidence.
+b. Respondent’s name, designation, contact numbers/details as available
+c. Nature, type and details of complaint, including who, what, when, where and how.
+d. Identity of witnesses, if any.
+e. Other potential complainant persons, if any.
+f. Any other evidences i.e. email, messages, pictures, videos if any to be produced
+Process of Enquiry
+● Upon receiving a formal complaint, the ICC should ask the complainant to prepare a detailed statement
+of incidents if the written complaint is sketchy.
+● The ICC should also attempt to obtain the complainant’s signature on a scanned copy of the complaint if
+the complaint has been filed via email.
+● The ICC must send a copy of the complaint and other relevant documents to the accused/respondent,
+within 7 days of the receipt of the complaint seeking a response. The accused/ respondent should
+specifically be informed about the confidentiality obligations.
+● The accused / respondent must file his/her reply to the ICC within 10 days from the date of receipt of the
+complaint along with supporting documents, details of witnesses (name &amp; address).
+● In the first instance, the ICC will provide an opportunity to the complainant as well as the respondent to
+represent their position and provide their explanations.
+● Inquiry will be initiated by the ICC
+● The ICC will organize verbal hearings with the complainant and the respondent, in accordance with
+principles of natural justice.
+● Both the parties to be given reasonable opportunity to be heard along with the witnesses
+● The ICC to take testimonies of other relevant persons and review the evidence wherever necessary. The
+committee should ensure that enough care is taken to avoid any retaliation against the witnesses.
+● During the inquiry process, the complainant and the respondent should refrain from any form of threat,
+intimidation or influencing of witnesses.
+● Written record of all discussions to be maintained by the committee.
+Internal Circulation - 26
+Note:
+● During the inquiry at least three ICC members including the Presiding
+● officer shall be present or participate through voice/video calls or in person
+● at the office premises.
+● The ICC to complete the inquiry within 90 days.
+● No legal practitioner can represent any party at any stage of the inquiry procedure.
+Submission of Enquiry Report
+● On completion of inquiry, the ICC will Email or handover the report
+● containing findings and the recommended action thereon to the Head of HR for the location within 10
+days.
+● The Head of HR will clarify with the ICC on the recommendation and will
+● direct implementation of the same within 60 days of receiving the report from ICC.
+● Final recommendations consisting of findings and proposed corrective action, to be communicated to the
+complainant and respondent. A consent
+● (written or verbal) to be taken from the complainant stating that he/she is satisfied with the
+recommended corrective action and the inquiry process.
+● The proceedings under these investigative procedures shall; be treated as
+● strictly confidential and shall not be divulged by any staff member or any of the parties to anyone.
+● The details will also be mentioned in filling a compliance every year.
+Reconciliation Process
+● Amendment bill 2024 has strictly mentioned that no reconciliation after filling a report at POSH ICC be
+allowed
+● Monetary settlement cannot be the basis of the conciliation.
+● There will be no financial transaction between the complainant or the respondent in any form during the
+ICC inquiry
+● The reconciliation is an option given to the complainant only with the counselor before filling a written
+complaint to the POSH ICC.
+● The conciliation process will involve fact finding and/or interviews with
+● complainant and respondent. The outcome is usually an apology, promise not to repeat behavior, transfer
+of one party or voluntary resignation.
+● If the conciliation is successful, both the parties must express and accept the outcome of the case in
+writing or through an Email.
+● Settlement arrived at through conciliation process will have to be recorded,
+● signed by both parties, and a scanned copy of the same should be forwarded to the management of the
+company to act as specified.
+● The terms of settlement should be made available to both parties.
+● In case a settlement is reached, no formal inquiry will be conducted.
+● Resolution through conciliation should happen within 2 weeks of receipt of complaint.
+Discipline
+Employees who violate this policy are subject to appropriate discipline. If an inquiry results in a finding that
+this policy has been violated, the mandatory minimum discipline is a written reprimand. Persons who violate
+this policy may also be subject to civil damages or criminal penalties. Some of the actions to be taken:
+● A written or Email apology (preferred)
+● Disciplinary action can include warning, reprimand, withhold promotion, demotion, termination,
+Internal Circulation - 27
+suspension, change of role or transfer, deduction from salary of respondent payable to complainant or
+any other punishment as per service rules.
+Note
+● In case the complainant is not satisfied with the actions recommended by the ICC and desires to lodge
+the Complaint with the appropriate
+● authority under Indian Penal Code, CODITAS SOLUTIONS LLP shall provide necessary assistance in the
+matter.
+● In case of new evidences, the ICC can re-open the case.
+Interim Redressal
+In case ICC is of the opinion that the complainant needs protection from
+the interference of the respondent during the inquiry, it may choose to -
+● ensure no communication whatsoever exists between the complainant and the respondent
+● transfer the complainant or the respondent to any other department/ location or
+● grant leave to the complainant; such leave is in addition to the annual leaves.
+● restrict the respondent from reporting on the work performance of the complainant individual or writing
+his/her confidential report and assign the same to another officer.
+● offer a counselling service in case the complainant feels traumatized
+Appeal
+Any party not satisfied by the implementation or non-implementation of recommendations made, may appeal
+to the appellate authority in accordance with the Act and rules, within 90 days of the recommendations being
+communicated.
+Protection Against Victimization
+CODITAS SOLUTIONS LLP is committed to ensuring that no employee who brings forward a harassment concern
+is subject to any form of reprisal. Any reprisal will be subject to disciplinary action.
+The Company will ensure that the victim or witnesses are not victimized or discriminated against while dealing
+with complaints of sexual harassment.
+Malicious Allegations
+In event if it is brought to the management of CODITAS SOLUTIONS LLP by the ICC that the complaint was made
+with a malicious intent and/or with the motive of defaming and/or tarnishing his/her image, a separate inquiry
+may be initiated to substantiate the claim.
+If a woman has filed a false complaint then a fine of 1 LAKH or jail time of 2 years will be charged by ICC to
+prevent false allegations in the workplace.
+Such acts are considered against the code of conduct of CODITAS SOLUTIONS LLP and will attract strict
+disciplinary action if the claim is substantiated.
+Non-Retaliation
+CODITAS SOLUTIONS LLP will not accept, support or tolerate any retaliation in any form against any associate
+who acts in good faith, reports suspected misconduct, asks questions or raises concerns. Strict disciplinary
+action will be taken against any person engaging in direct or indirect form of retaliation. Incidents of retaliation
+should be reported to ICC. Retaliation may include actions like -
+● marginalizing someone in the workplace with regards to their roles and responsibilities
+● socially ostracizing
+● intimidating someone or someone close or related to the victim; physically, psychologically, and
+Internal Circulation - 28
+emotionally
+● intimidating or pressurizing parties involved in the case to withdraw the case or
+● threatening not to report, testify or otherwise participate in the proceedings.
+Confidentiality
+All inquiries, complaints and investigations are treated confidentially. Information is revealed strictly on a
+need-to-know basis. Information contained in a formal complaint is kept as confidential as possible. However,
+the identity of the complainant is usually revealed to the respondent and witnesses. The HR manager and
+presiding officer has to take adequate steps to ensure that the complainant is protected from retaliation during
+the period of the investigation. All information pertaining to a sexual harassment complaint or investigation is
+to be maintained in secured files. The HR head can answer any questions relating to the procedures for
+handling information related to sexual harassment complaints and investigations to complainants and
+respondents. The information should not be disclosed even to members of senior management who are not
+directly involved with the Complaint and inquiry even during board review/meeting. The contents of the
+complaint made, the identity and addresses of the Complainant, Respondent and witnesses, any information
+relating to conciliation and inquiry proceedings, recommendations of the ICC and the action taken on the
+Respondent shall not be published, communicated or made known to the public, press and media/
+social-media in any manner.
+Sexual Harassment and client/partner/vendor
+CODITAS SOLUTIONS LLP encourages its clients/ partners/ vendors to have a commitment to a sexual
+harassment free working atmosphere within their organizations. CODITAS SOLUTIONS LLP shall play a facilitator
+role in redressing complaints of sexual harassment.
+Policy Implementation and Review
+The policy will be implemented and reviewed by the HR department. The company reserves the right to amend,
+abrogate, modify, rescind/ reinstate the entire policy or any part of it any time. Once any change is
+implemented the changes will be intimated.
+Records & Reports
+Records shall be maintained for all complaints received and actioned. The Internal Committee will make an
+annual report detailing the number of complaints received, number of complaints disposed, pending
+complaints and action taken by the Company and the same shall be submitted to the Human Resources
+Department of the Company.
+Annexure A- ICC Members List and Email - ICC@coditas.com
+Bishaka Ketkar Presiding Officer bishaka.ketkar@coditas.com 9922339007
+Jasleen Bagga Member jasleen.bagga@coditas.com 7219299291
+Pooja Joshi Member pooja.joshi@coditas.com 9730174207
+Indraneel Khamitkar Member indraneel@coditas.com 7588046788
+Aman Kumar Member aman.kumar@coditas.com 9971461729
+Resham Bamb External Member foundationshy@gmail.com 8010691140
+Internal Circulation - 29
+Team Outing Policy
+Definition- Team outing provides an opportunity to unwind from the demanding and challenging work schedules
+and explore bonds and camaraderie with colleagues. Recreation and team bonding activities set a tone for
+building relationships that help in growth and learning.
+Frequency - Quarterly
+Scope - All team members
+What to look forward to?
+● Icebreaker with new team members
+● Getting to know each other better
+● Team bonding activities
+● Food and Fun
+Desired Outcome -
+● Boost team bonding and morale
+● Enhance communication and collaboration
+● Strengthen relationships
+Outing T&C - While there’s a fun element, team outings are in the purview of an official capacity and mandates
+everyone to adhere to the set policy. The terms are to help ensure fun with safety measures.
+● Outing is voluntary and no one is to be compelled to participate.
+● Consumption of alcoholic beverages or any other form of intoxication in office outings is strictly
+prohibited. Strict disciplinary action will be taken on those found violating.
+● Leadership (Partner/Manager/Lead) presence is mandatory in company outings.
+● Adherence to safety protocols is of paramount importance. Individuals will be responsible for one’s own
+safety.
+● Any reported instances of misconduct, misdemeanor, breach of safety protocols, intoxication etc would
+be dealt with strictly and lead to stringent disciplinary consequences.
+● Group to deter from pursuing ad hoc adventures as an extension to the company outing.
+● Expenses are to be incurred as per the allowed budget, prior approval is mandatory.
+● Any miscellaneous expenses resulting from stay, travel, adventure activities etc, beyond the approved
+budget, is to be borne by self.
+● It is the team members' responsibility to safeguard the assets at all points in time, and any damage, loss,
+or theft to the asset will be recovered from the team member.
+● All Coditas policies, like POSH, code of conduct, disciplinary policies etc will apply during outings.
