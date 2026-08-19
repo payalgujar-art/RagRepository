@@ -1,1 +1,214 @@
-﻿
+﻿HR POLICIES AND EMPLOYEE GUIDELINES
+
+Document: HR_Policies.txt
+
+
+1. DATA SECURITY
+
+Data security refers to protecting company and employee information from unauthorized access, modification, disclosure, or destruction.
+
+Employees must protect confidential company information and must not share sensitive information with unauthorized individuals.
+
+Employees should use strong passwords and must not share their passwords with colleagues.
+
+Company data should only be stored on approved company systems and applications.
+
+Employees must immediately report suspected data breaches, lost company devices, unauthorized access, or accidental disclosure of confidential information to the IT or Information Security team.
+
+Employees should not copy confidential company information to personal devices, personal email accounts, or unauthorized cloud storage.
+
+Examples of confidential information include employee personal information, salary information, customer information, business strategies, source code, credentials, financial information, and internal company documents.
+
+
+2. POSH POLICY
+
+POSH stands for Prevention of Sexual Harassment.
+
+The company is committed to providing a safe and respectful workplace free from sexual harassment.
+
+Sexual harassment includes unwelcome physical, verbal, or non-verbal conduct of a sexual nature.
+
+Examples may include unwelcome physical contact, inappropriate comments, sexually suggestive messages, unwanted requests for sexual favors, inappropriate jokes, or sharing sexually explicit material.
+
+Employees who experience or witness sexual harassment are encouraged to report the incident through the company's designated reporting channels.
+
+All complaints should be handled with confidentiality and sensitivity.
+
+Retaliation against an employee who makes a complaint in good faith or participates in an investigation is not permitted.
+
+Employees are expected to maintain professional and respectful behavior toward colleagues at all times.
+
+
+3. WORKING HOURS
+
+The standard working schedule is Monday through Friday.
+
+Employees are expected to follow the working hours defined by their department or project.
+
+Employees should communicate with their manager when they expect to be unavailable during scheduled working hours.
+
+Project-specific working schedules may differ depending on business requirements, customer requirements, or team arrangements.
+
+Employees working remotely are expected to remain available through approved communication tools during agreed working hours.
+
+
+4. LEAVE POLICY
+
+Employees may request leave for vacation, personal requirements, illness, or other approved reasons.
+
+Leave requests should be submitted through the company's approved leave management system.
+
+Employees should obtain manager approval before taking planned leave.
+
+For unexpected absence due to illness or an emergency, employees should notify their manager as soon as reasonably possible.
+
+The number of available leave days depends on the employee's employment terms and applicable company policy.
+
+Employees should plan extended leave in advance to minimize disruption to project activities.
+
+
+5. WORK FROM HOME POLICY
+
+Employees may work remotely when permitted by their department or manager.
+
+Employees working from home must maintain a suitable working environment and protect company information.
+
+Company laptops and other company equipment must not be used by unauthorized individuals.
+
+Employees must connect to company systems using approved security mechanisms.
+
+Confidential conversations should not be conducted where unauthorized people can hear them.
+
+Employees must report lost or stolen company equipment immediately.
+
+
+6. CODE OF CONDUCT
+
+Employees are expected to behave professionally and respectfully.
+
+Discrimination, harassment, bullying, intimidation, and retaliation are not acceptable workplace behaviors.
+
+Employees must comply with applicable company policies and procedures.
+
+Employees should avoid conflicts of interest and disclose potential conflicts to their manager or the appropriate HR representative.
+
+Company resources should be used responsibly and primarily for legitimate business purposes.
+
+Employees are responsible for protecting company property, information, systems, and intellectual property.
+
+
+7. EMPLOYEE PERFORMANCE
+
+Employee performance is evaluated based on responsibilities, objectives, quality of work, collaboration, communication, and professional behavior.
+
+Managers should provide employees with regular feedback regarding their performance.
+
+Employees who receive performance feedback are encouraged to discuss expectations, development opportunities, and areas for improvement with their manager.
+
+Performance improvement plans may be used when an employee's performance does not meet established expectations.
+
+A performance improvement plan may define specific objectives, timelines, support, and evaluation criteria.
+
+
+8. RECRUITMENT AND ONBOARDING
+
+New employees must complete the required onboarding activities.
+
+Employees may be required to provide employment-related documents during the onboarding process.
+
+New employees should complete mandatory training assigned by HR, Information Security, or their department.
+
+Employees are expected to familiarize themselves with relevant company policies and procedures.
+
+Managers are responsible for helping new employees understand their role, responsibilities, team structure, and project expectations.
+
+
+9. INFORMATION SECURITY TRAINING
+
+Employees may be required to complete periodic information security training.
+
+Security training may cover password security, phishing awareness, data protection, device security, access control, and incident reporting.
+
+Employees should not click suspicious links or open unexpected attachments from unknown sources.
+
+Suspicious emails or security incidents should be reported using the company's approved security reporting process.
+
+Employees must complete mandatory security training within the assigned deadline.
+
+
+10. CONFIDENTIALITY
+
+Employees may have access to confidential information while performing their job responsibilities.
+
+Confidential information must only be accessed when required for legitimate business purposes.
+
+Employees must not disclose confidential information to unauthorized persons.
+
+Confidential information remains protected even after an employee leaves the organization.
+
+Employees must return or securely delete company information and assets when required by company policy or during separation.
+
+
+11. EMPLOYEE GRIEVANCES
+
+Employees who have workplace concerns may raise them through their manager, HR representative, or the company's designated grievance process.
+
+Employees are encouraged to raise concerns promptly so that they can be reviewed appropriately.
+
+HR may investigate workplace complaints and may request information from relevant employees.
+
+Employees participating in an investigation are expected to provide accurate information and maintain confidentiality.
+
+
+12. TRAVEL AND EXPENSES
+
+Business travel must be approved according to the company's travel approval process.
+
+Employees should use approved travel providers when required.
+
+Business expenses must be supported by appropriate receipts or documentation.
+
+Expense claims should be submitted through the approved expense management system within the required timeframe.
+
+Personal expenses are not reimbursable unless specifically permitted by company policy.
+
+
+13. IT EQUIPMENT
+
+Company-issued laptops, phones, and other equipment are provided for authorized business purposes.
+
+Employees are responsible for taking reasonable care of company equipment.
+
+Employees must not install unauthorized software on company devices when prohibited by IT policy.
+
+Employees should report hardware problems, lost devices, or suspected security compromises to the IT team.
+
+Company devices must be returned when employment ends or when requested by the company.
+
+
+14. EMPLOYEE SEPARATION
+
+Employees leaving the organization must complete the required separation and exit procedures.
+
+Employees may be required to return company equipment, identification cards, documents, and other company property.
+
+Access to company systems may be disabled as part of the separation process.
+
+Employees must continue to protect confidential company information after leaving the organization.
+
+Final settlement and other employment-related documentation will be processed according to applicable company procedures.
+
+
+15. IMPORTANT CONTACTS
+
+For HR-related questions:
+Contact the HR department or assigned HR representative.
+
+For data security incidents:
+Contact the Information Security or IT team immediately.
+
+For workplace harassment concerns:
+Use the company's designated POSH reporting mechanism or contact the appropriate Internal Committee.
+
+For technical issues:
+Contact the IT help desk through the approved support channel.

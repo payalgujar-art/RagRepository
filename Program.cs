@@ -2,6 +2,7 @@ using RagApplication.Interfaces;
 using RagApplication.Services;
 using RagApplication;
 using RagApplication.Models;
+using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -34,15 +35,17 @@ builder.Services.AddSingleton<IEmbeddingGenerator>(sp =>
 builder.Services.AddSingleton<TextRepository>(sp =>
     new TextRepository(
         connectionString,
-        sp.GetRequiredService<IEmbeddingGenerator>()
+        sp.GetRequiredService<IEmbeddingGenerator>(),
+        sp.GetRequiredService<ILogger<TextRepository>>()
     ));
 
-
+// RAG Service
 builder.Services.AddSingleton<RagService>(sp =>
     new RagService(
         sp.GetRequiredService<TextRepository>(),
-        new Uri("http://localhost:11434"),
-        "mistral"
+        builder.Configuration["Groq:ApiKey"]!,
+        sp.GetRequiredService<ILogger<RagService>>(),
+        "openai/gpt-oss-20b"
     ));
 builder.Services.AddCors(options =>
 {
